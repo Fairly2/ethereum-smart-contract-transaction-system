@@ -1,4 +1,4 @@
-# Blockchain-Based Food Donation Tracking System
+# Ethereum Smart Contract Transaction System
 
 A decentralized blockchain-powered food donation tracking platform built using Solidity and Ethereum Sepolia Testnet to reduce food wastage through transparent and tamper-proof donation management.
 
